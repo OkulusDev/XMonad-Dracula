@@ -1,0 +1,15 @@
+2023/09/02-23:20:19.976 1bd Reusing MANIFEST /home/okulus/.config/falkon/profiles/default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/02-23:20:19.977 1bd Recovering log #7
+2023/09/02-23:20:19.987 1bd Reusing old log /home/okulus/.config/falkon/profiles/default/IndexedDB/https_habr.com_0.indexeddb.leveldb/000007.log 
+2023/09/02-23:20:48.439 1bd Level-0 table #12: started
+2023/09/02-23:20:48.452 1bd Level-0 table #12: 7220 bytes OK
+2023/09/02-23:20:48.463 1bd Delete type=0 #7
+2023/09/02-23:20:48.464 1bd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/02-23:20:48.464 1bd Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01 \x03\x00\xc0\xd9\x1fk\xa5xB\x00\x01a\x00g\x00o\x00o\x00g\x00l\x00e\x00-\x00f\x00o\x00n\x00t\x00s\x00-\x00w\x00e\x00b\x00f\x00o\x00n\x00t\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00n\x00t\x00s\x00.\x00g\x00s\x00t\x00a\x00t\x00i\x00c\x00.\x00c\x00o\x00m\x00/\x00s\x00/\x00f\x00i\x00r\x00a\x00s\x00a\x00n\x00s\x00/\x00v\x001\x001\x00/\x00v\x00a\x009\x00B\x004\x00k\x00D\x00N\x00x\x00M\x00Z\x00d\x00W\x00f\x00M\x00O\x00D\x005\x00V\x00n\x00Z\x00K\x00v\x00e\x00R\x00h\x00f\x006\x00.\x00w\x00o\x00f\x00f\x002' @ 491 : 1
+2023/09/02-23:20:48.464 1bd Compacting 1@1 + 1@2 files
+2023/09/02-23:20:48.484 1bd Generated table #13@1: 61 keys, 1861 bytes
+2023/09/02-23:20:48.484 1bd Compacted 1@1 + 1@2 files => 1861 bytes
+2023/09/02-23:20:48.534 1bd compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/02-23:20:48.535 1bd Delete type=2 #9
+2023/09/02-23:20:48.535 1bd Delete type=2 #12
+2023/09/02-23:20:48.536 1bd Manual compaction at level-1 from '\x00\x02\x01 \x03\x00\xc0\xd9\x1fk\xa5xB\x00\x01a\x00g\x00o\x00o\x00g\x00l\x00e\x00-\x00f\x00o\x00n\x00t\x00s\x00-\x00w\x00e\x00b\x00f\x00o\x00n\x00t\x00s\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00n\x00t\x00s\x00.\x00g\x00s\x00t\x00a\x00t\x00i\x00c\x00.\x00c\x00o\x00m\x00/\x00s\x00/\x00f\x00i\x00r\x00a\x00s\x00a\x00n\x00s\x00/\x00v\x001\x001\x00/\x00v\x00a\x009\x00B\x004\x00k\x00D\x00N\x00x\x00M\x00Z\x00d\x00W\x00f\x00M\x00O\x00D\x005\x00V\x00n\x00Z\x00K\x00v\x00e\x00R\x00h\x00f\x006\x00.\x00w\x00o\x00f\x00f\x002' @ 491 : 1 .. (end); will stop at (end)

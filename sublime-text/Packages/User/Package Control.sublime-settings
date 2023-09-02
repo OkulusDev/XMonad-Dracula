@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dracula Color Scheme",
+		"FileIcons",
+		"Package Control",
+		"Theme - Adaptify",
+		"Theme - DAneo",
+		"Theme - Fladaptive",
+	],
+}

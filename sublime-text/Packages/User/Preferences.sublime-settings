@@ -1,0 +1,10 @@
+{
+	"font_face": "JetBrainsMono Nerd Font",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 13,
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+}

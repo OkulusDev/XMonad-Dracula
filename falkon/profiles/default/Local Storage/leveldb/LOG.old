@@ -1,0 +1,6 @@
+2023/09/01-22:58:37.899 1e5b Reusing MANIFEST /home/okulus/.config/falkon/profiles/default/Local Storage/leveldb/MANIFEST-000001
+2023/09/01-22:58:37.899 1e5b Recovering log #3
+2023/09/01-22:58:37.911 1e5b Reusing old log /home/okulus/.config/falkon/profiles/default/Local Storage/leveldb/000003.log 
+2023/09/01-23:50:15.191 2abe Level-0 table #5: started
+2023/09/01-23:50:15.212 2abe Level-0 table #5: 19975 bytes OK
+2023/09/01-23:50:15.223 2abe Delete type=0 #3

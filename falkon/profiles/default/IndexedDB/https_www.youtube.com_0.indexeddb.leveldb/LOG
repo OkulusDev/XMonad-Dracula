@@ -1,0 +1,5 @@
+2023/09/01-23:35:47.528 2604 Reusing MANIFEST /home/okulus/.config/falkon/profiles/default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/01-23:38:26.792 26c8 Level-0 table #5: started
+2023/09/01-23:38:26.812 26c8 Level-0 table #5: 6757 bytes OK
+2023/09/01-23:38:26.827 26c8 Delete type=0 #3
+2023/09/01-23:38:26.828 26c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
